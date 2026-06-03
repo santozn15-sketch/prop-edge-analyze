@@ -132,5 +132,3 @@ if st.session_state['betting_history']:
     )
 else:
     st.info("No betting history yet. Perform an analysis to start building your history!")
-
-    st.warning("This feature requires further development based on your specific data needs and sources.")
